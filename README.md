@@ -1,0 +1,2 @@
+# java_teaching_assistant_template
+TA採点用のテンプレ
